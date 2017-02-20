@@ -58,11 +58,11 @@ The software may malfunction if the environment is too bright (infrared noise).
 ##Use
 I recommend pre-reading the article before using the software.
 
-** Required hardware **
+**Required hardware**
 - Infrared camera (IR), [tutorial](http://www.gersondiesel.com.br/2010/02/16/transformando-uma-webcam-em-umacamera-infra-vermelho/);
 - Brush with infrared led (article mentioned here has the circuit for mounting the brush).
 
-** Software **
+**Software**
 - Choose IR camera;
 - Set a threshold. Example: environment with little sunlight and low infra-red noise (low threshold);
 - Calibrate the software by clicking with the brush at the positions of the mouse arrow;
