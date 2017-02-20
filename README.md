@@ -3,13 +3,13 @@ Projeto fomentado pela chamada Vale/CNPq N. 05/2012.
 Desenvolvido na Universidade Federal do Ceará, Campus Mucambinho, Sobral, Ceará.
 Curso de [Engenharia de Computação](http://www.ec.ufc.br).
 
-API de câmera utilizada: Webcam Captura por Bartosz Firyn, [link](https://github.com/sarxos/webcam-capture)
+API de câmera utilizada: Webcam Captura por Bartosz Firyn, [link](https://github.com/sarxos/webcam-capture).
 
 ##Descrição
 Este trabalho trata do desenvolvimento de uma lousa interativa de baixo custo e alta mobilidade, realizado por alunos dos primeiros semestres do curso de Engenharia de Computação e alunos do ensino médio profissionalizante.
 
 ##Resultados
-Artigo publicado na [COBENGE 2013](http://www.fadep.br/engenharia-eletrica/congresso/pdf/118518_1.pdf)
+Artigo publicado na [COBENGE 2013](http://www.fadep.br/engenharia-eletrica/congresso/pdf/118518_1.pdf).
 
 ##Observações
 Compartilhamento do código da última versão trabalhada até o encerramento do projeto, em dezembro de 2013. Muito provavelmente existem erros bobos de programação e más práticas, coisas que só aprendi no decorrer da graduação.
@@ -40,13 +40,13 @@ Project promoted by Vale / CNPq N. 05/2012.
 Developed at the Federal University of Ceará, Campus Mucambinho, Sobral, Ceará.
 Course of [Computer Engineering](http://www.ec.ufc.br).
 
-Camera API used: Webcam Capture by Bartosz Firyn, [link](https://github.com/sarxos/webcam-capture)
+Camera API used: Webcam Capture by Bartosz Firyn, [link](https://github.com/sarxos/webcam-capture).
 
 ##Description
 This work deals with the development of a low-cost and high mobility interactive whiteboard, realized by students of the first semesters of the course of Computer Engineering and high school students.
 
 ## Results
-Paper published in [COBENGE 2013](http://www.fadep.br/engenharia-eletrica/congresso/pdf/118518_1.pdf)
+Paper published in [COBENGE 2013](http://www.fadep.br/engenharia-eletrica/congresso/pdf/118518_1.pdf).
 
 ##Comments
 Sharing the code from the last version worked through to the end of the project in December 2013. There are very probably some silly programming errors and bad practices, things that I only learned during graduation.
